@@ -1,3 +1,13 @@
-print('test')
+import sys
 
-print('change 2')
+def clasifyThalasemia(inputFile , knowledgeFile):
+
+    input = open(inputFile)
+
+
+
+
+
+
+
+
