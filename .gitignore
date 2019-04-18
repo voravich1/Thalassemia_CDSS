@@ -195,6 +195,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # Other
-.Idea
+.idea
 
 # End of https://www.gitignore.io/api/linux,macos,python,windows
